@@ -104,14 +104,7 @@ def main():
     
     print(f"Part 1: {len(part1("XMAS", matrix))}")
     print(f"Part 1: {part2(matrix)}")
-                    
-    
-    
 
-            
-    
-                   
-    
-        
+
 if __name__ == "__main__":
     main()
